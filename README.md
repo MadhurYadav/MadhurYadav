@@ -1,82 +1,145 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+
+# Hi, I'm Madhur Yadav 👋
+
+### Software Engineer | Backend Development | Java & Spring Boot
+
+Building backend systems, solving DSA problems, and learning how production systems are designed and scaled.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/madhuryadav14/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/madhuryadav14/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="YOUR_CREDLY_URL" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-Profile-FF6B35?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+<a href="mailto:madhuryadav1402@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
-###
+---
+
+## 👨‍💻 About Me
+
+I'm Madhur, a Software Engineer focused on **backend development and building reliable software systems**.
+
+* 🔨 Building **Suraksha**, a real-time safety & incident response platform
+* ☕ Working primarily with **Java & Spring Boot**
+* 🧩 Exploring **distributed systems, messaging, caching and system design**
+* 🧠 Solving **DSA problems** consistently and strengthening problem-solving fundamentals
+* 🤖 Exploring practical **AI/LLM integration** in software applications
+* 🚀 Interested in building products that solve real problems
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+### 🛡️ Suraksha
+
+A **real-time safety & incident response platform** designed around emergency response and personal safety.
+
+**Tech:** Java • Spring Boot • PostgreSQL • Redis • Kafka • WebSocket • Angular • AI
+
+The project is also my playground for learning how backend concepts work beyond tutorials — from APIs and persistence to asynchronous communication, caching, real-time events and system design.
+
+---
+
+## 🧠 Current Engineering Focus
+
+```text
+DSA
+████████████████████░░  250+ problems
+
+Backend Development
+███████████████████░░░  Java • Spring Boot • PostgreSQL
+
+System Design
+██████████░░░░░░░░░░░░  Learning & implementing
+
+AI Integration
+██████████████░░░░░░░░  Building with practical use cases
+```
+
+Currently focused on:
+
+* Data Structures & Algorithms
+* Backend architecture
+* REST APIs & database design
+* Redis & caching
+* Kafka & asynchronous communication
+* WebSockets & real-time systems
+* System design fundamentals
+* AI/LLM integration
+
+---
+
+## 🏆 Achievements
+
+* **Claude Certified Architect — Professional** · Anthropic · 2026
+* **250+ LeetCode problems** solved
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/madhuryadav14/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/madhuryadav14" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-  <a href="https://www.instagram.com/madhuryadav_14/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="mailto:ymadhur1444@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=madhuryadav&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuryadav&layout=compact&theme=transparent&hide_border=true" height="170" />
+
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/madhuryadav/count.svg?"  />
+
+### Building. Learning. Shipping.
+
 </div>
-
-###
-
-<h1 align="center">Hey! 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Madhur Yadav!<br><br>- 🔭 I’m aspiring Software Developer<br>- 📚 I'm currently studying BTech CSE<br>- 🤖 Fun Fact - I code with a side of humor</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=madhuryadav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
