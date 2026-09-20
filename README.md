@@ -14,7 +14,7 @@ Building backend systems, solving DSA problems, and learning how production syst
 <a href="https://leetcode.com/u/madhuryadav14/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="YOUR_CREDLY_URL" target="_blank">
+<a href="https://www.credly.com/users/madhur-yadav" target="_blank">
   <img src="https://img.shields.io/badge/Credly-Profile-FF6B35?style=for-the-badge&logo=credly&logoColor=white" />
 </a>
 <a href="mailto:madhuryadav1402@gmail.com">
